@@ -1,0 +1,53 @@
+{
+  "name": "gohardware-client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/free-solid-svg-icons": "^6.0.0",
+    "@fortawesome/react-fontawesome": "^0.1.17",
+    "@material-ui/core": "^4.9.14",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/lab": "^4.0.0-alpha.54",
+    "@material-ui/styles": "^4.9.14",
+    "axios": "^0.21.1",
+    "dayjs": "^1.8.28",
+    "jwt-decode": "^2.2.0",
+    "material-ui-icons": "^1.0.0-beta.36",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-icons": "^4.3.1",
+    "react-places-autocomplete": "^7.2.1",
+    "react-redux": "^7.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.1",
+    "react-slick": "^0.28.1",
+    "react-spring": "^9.4.2",
+    "react-swipeable-views": "^0.13.9",
+    "react-swipeable-views-utils": "^0.13.9",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0",
+    "slick-carousel": "^1.8.1",
+    "socket.io-client": "^2.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
